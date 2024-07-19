@@ -5,9 +5,10 @@ This project aims to classify potato leaves into three categories: Early Blight,
 The dataset is organized into the following structure:
 
 PlantVillage/
-    ├── Potato___Early_blight/
-    ├── Potato___healthy/
-    ├── Potato___Late_blight/
+- Potato___Early_blight
+- Potato___healthy
+- Potato___Late_blight
+  
 Each directory contains images of potato leaves that belong to the respective category.
 
 ### Dataset
